@@ -1,6 +1,6 @@
 # My-profile:
 
-<h1 align="center">Hello, I'm Seangmeng CHHEUN</h1>
+<h1 align="center">Hello, I'm CHHEUN Seangmeng </h1>
 <h3 align="center">I am passionate on frontend & Backend developer</h3>
 
 - 🔭 I’m currently studying in Passerelles Numeriques Cambodia (PNC) **Virtual Company One (VC1) - POS system**
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **TypeScript, Vue JS, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://seangmeng.netlify.app/](https://seangmeng.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://seangmengg.netlify.app/](https://seangmengg.netlify.app/)
 
 - 📫 How to reach me **seangmeng.chheun@student.passerellesnumeriques.org**
 
