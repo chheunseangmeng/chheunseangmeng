@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **seangmeng.chheun@student.passerellesnumeriques.org**
 
-- 📄 Know about my experiences (DOWNLOAD CV) [https://seangmeng.netlify.app/](https://seangmeng.netlify.app/)
+- 📄 Know about my experiences (DOWNLOAD CV) [https://seangmeng.netlify.app/](https://seangmengg.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
