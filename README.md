@@ -3,20 +3,22 @@
 <h1 align="center">Hello, I'm CHHEUN Seangmeng </h1>
 <h3 align="center">I am passionate on frontend & Backend developer</h3>
 
-- 🔭 I’m currently studying in Passerelles Numeriques Cambodia (PNC) **Virtual Company One (VC1) - POS system**
+- 🔭 On March - May I worked **Virtual Company One (VC1) - POS system**
 
-- 🌱 I’m currently learning **TypeScript (OOP)**
+- 🔭 I’m currently studying in Passerelles Numeriques Cambodia (PNC) **Virtual Company Two (VC2) - QR Code Menu App - Mobile Application**
+  
+- 🌱 I’m currently learning **Vue JS and Laravel**
 
 - 👯 I’m looking for **internship as Web developer**
 
-- 🤝 I’m looking for help with **TypeScript, Vue JS, Laravel**
+- 🤝 I’m looking for help with **FLutter, Java**
 
-- 👨‍💻 All of my projects are available at [https://seangmengg.netlify.app/](https://seangmengg.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://seangmeng-dev.vercel.app/](https://seangmeng-dev.vercel.app/)
 
 - 📫 How to reach me **seangmeng.chheun@student.passerellesnumeriques.org**
 
-- 📄 Know about my experiences (DOWNLOAD CV) [https://seangmeng.netlify.app/](https://seangmengg.netlify.app/)
-
+- 📄 Know about my experiences (DOWNLOAD CV) [https://seangmeng-dev.vercel.app/](https://seangmeng-dev.vercel.app/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/@seavmengzz" target="_blank">
