@@ -9,7 +9,7 @@
 
 - 🔭 I have been creating **POS system(Web app) and QR Code Menu App (mobile app)**
   
-- 🌱 I’m have been learning **Vue JS and Laravel**
+- 🌱 I have been learning **Vue JS and Laravel**
 
 - 🤝 I’m looking for help with **FLutter, Java**
 
