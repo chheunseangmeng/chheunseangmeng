@@ -3,19 +3,19 @@
 <h1 align="center">Hello, I'm CHHEUN Seangmeng </h1>
 <h3 align="center">I am passionate on frontend & Backend developer</h3>
 
-- 🔭 On March - May I worked **Virtual Company One (VC1) - POS system**
+- Currently, I intern as Data Engineer at **Dai ichi Life Cambodia**
 
-- 🔭 I’m currently studying in Passerelles Numeriques Cambodia (PNC) **Virtual Company Two (VC2) - QR Code Menu App - Mobile Application**
+- 🔭 I’m looking for **Job as Web developer**
+
+- 🔭 I have been creating **POS system(Web app) and QR Code Menu App (mobile app)**
   
-- 🌱 I’m currently learning **Vue JS and Laravel**
-
-- 👯 I’m looking for **internship as Web developer**
+- 🌱 I’m have been learning **Vue JS and Laravel**
 
 - 🤝 I’m looking for help with **FLutter, Java**
 
 - 👨‍💻 All of my projects are available at [https://seangmeng-dev.vercel.app/](https://seangmeng-dev.vercel.app/)
 
-- 📫 How to reach me **seangmeng.chheun@student.passerellesnumeriques.org**
+- 📫 How to reach me **chheunseangmeng@gmail.com**
 
 - 📄 Know about my experiences (DOWNLOAD CV) [https://seangmeng-dev.vercel.app/](https://seangmeng-dev.vercel.app/)
   
