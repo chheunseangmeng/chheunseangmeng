@@ -1,23 +1,19 @@
 # My-profile:
 
-<h1 align="center">Hello, I'm CHHEUN Seangmeng </h1>
-<h3 align="center">I am passionate on frontend & Backend developer</h3>
+<h1 align="center">Hello, I'm Seangmeng </h1>
+<h3 align="center">Web and Mobile App Development is my passion!</h3>
 
-- Currently, I intern as Data Engineer at **Dai ichi Life Cambodia**
-
-- 🔭 I’m looking for **Job as Web developer**
+- Currently, I work as Backend developer 
 
 - 🔭 I have been creating **POS system(Web app) and QR Code Menu App (mobile app)**
   
 - 🌱 I have been learning **Vue JS and Laravel**
 
-- 🤝 I’m looking for help with **FLutter, Java**
+- 🤝 I’m looking for help with **FLutter, Java SpringBoot, Python**
 
-- 👨‍💻 All of my projects are available at [https://seangmeng-dev.vercel.app/](https://seangmeng-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mengify.site/](https://mengify.site)
 
-- 📫 How to reach me **chheunseangmeng@gmail.com**
-
-- 📄 Know about my experiences (DOWNLOAD CV) [https://seangmeng-dev.vercel.app/](https://seangmeng-dev.vercel.app/)
+- 📫 How to reach me **chhuneseavmeng@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
