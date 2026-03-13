@@ -1,13 +1,13 @@
 # My-profile:
 
 <h1 align="center">Hello, I'm Seangmeng </h1>
-<h3 align="center">Web and Mobile App Development is my passion!</h3>
+<h3 align="center">Web and Mobile App Development are my passion!</h3>
 
 - Currently, I work as Backend developer 
 
 - 🔭 I have been creating **POS system(Web app) and QR Code Menu App (mobile app)**
   
-- 🌱 I have been learning **Vue JS and Laravel**
+- 🌱 My main languages are **Vue JS, Laravel,  and Python**
 
 - 🤝 I’m looking for help with **FLutter, Java SpringBoot, Python**
 
@@ -73,6 +73,21 @@
   <span style="margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </span>
+  <span style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</span>
+<span style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+</span>
+<span style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
+</span>
+<span style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
+</span>
+<span style="margin-right: 20px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-reporting-services.svg" alt="ssrs" width="40" height="40"/>
+</span>
 </p>
 
 
