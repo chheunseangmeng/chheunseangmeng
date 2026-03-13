@@ -4,12 +4,12 @@
 <h3 align="center">Web and Mobile App Development are my passion!</h3>
 
 - Currently, I work as Backend developer 
-
-- 🔭 I have been creating **POS system(Web app) and QR Code Menu App (mobile app)**
   
 - 🌱 My main languages are **Vue JS, Laravel,  and Python**
 
 - 🤝 I’m looking for help with **FLutter, Java SpringBoot, Python**
+
+- 🔭 I have been creating **POS system(Web app) and QR Code Menu App (mobile app)**
 
 - 👨‍💻 All of my projects are available at [https://mengify.site/](https://mengify.site)
 
@@ -86,7 +86,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
 </span>
 <span style="margin-right: 20px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-reporting-services.svg" alt="ssrs" width="40" height="40"/>
+  <img src="https://www.dataseti.com/uploads/6/1/7/1/61715719/editor/ssrs-logo1.png?1603220572" alt="ssrs" width="40" height="40"/>
 </span>
 </p>
 
